@@ -78,5 +78,9 @@ interval:
 import urls
 -----------
 
+cutom emails
 https://rymc.io/blog/2010/rendering-emails-from-django-templates/
+
+pdf generaion in django
+https://www.codingforentrepreneurs.com/blog/html-template-to-pdf-in-django/
 
