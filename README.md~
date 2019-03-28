@@ -73,10 +73,3 @@ interval:
   swipe: 0.8
   pinch: 0.1
 
-
-
-import urls
------------
-
-https://rymc.io/blog/2010/rendering-emails-from-django-templates/
-
