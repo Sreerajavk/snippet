@@ -12,6 +12,10 @@ pip install mysqlclient
 To install mysql in python3
 
 sudo apt install python3-dev libpython3-dev
+sudo apt-get install python3 python-dev python3-dev \
+     build-essential libssl-dev libffi-dev \
+     libxml2-dev libxslt1-dev zlib1g-dev \
+     python-pip
 
 
 sudo apt install python3-mysqldb
