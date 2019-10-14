@@ -87,3 +87,9 @@ https://rymc.io/blog/2010/rendering-emails-from-django-templates/
 pdf generaion in django
 https://www.codingforentrepreneurs.com/blog/html-template-to-pdf-in-django/
 
+
+Unity support in Rider
+----------------------
+
+```https://stackoverflow.com/questions/41723018/jetbrains-rider-eap-on-linux-solution-load-failed-msbuild-not-found```
+
